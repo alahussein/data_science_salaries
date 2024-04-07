@@ -8,4 +8,4 @@ This Tableau dashboard is created with the aim of providing recruiters and job s
 
 The Dataset used for this dashboard is available on Kaggle, via RUCHI BHATIA.
 
-Click [here]:https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries to access the datasete
+Click [here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) to access the datasete
